@@ -1,6 +1,10 @@
 # Reaction Time Game with Pygame
 
 My first-ever game using Pygame! This is a super simple game designed to test your reaction time. Follow the instructions and see how fast you can react to the prompts. 
+## Screenshots
+![pygame](https://github.com/aleena-zahra/reaction-time/assets/155615101/b10bb0ef-372c-4503-90ab-e65b5be1b3dd)
+![Capturee](https://github.com/aleena-zahra/reaction-time/assets/155615101/cb382b11-819e-45ca-bb6a-f14d6d68e9b9)
+![ds](https://github.com/aleena-zahra/reaction-time/assets/155615101/539ad329-02c4-4e6c-83ed-0820ed5c5dcd)
 
 ## Instructions:
 
